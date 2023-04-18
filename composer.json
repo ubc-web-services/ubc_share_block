@@ -1,0 +1,10 @@
+{
+  "name": "ubc-web-services/ubc_share_block",
+  "description": "Add a custom block type with share buttons",
+  "type": "drupal-module",
+  "authors": [{
+    "name": "O'Toole, James",
+    "email": "james.otoole@ubc.ca"
+  }],
+  "require": {}
+}

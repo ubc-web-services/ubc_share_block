@@ -1,0 +1,6 @@
+# ubc_share_block.libraries.yml
+
+ubc_share_block:
+  css:
+    theme:
+      css/ubc_share_block.css: { }

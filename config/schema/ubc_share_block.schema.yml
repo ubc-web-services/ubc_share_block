@@ -1,0 +1,22 @@
+block.settings.ubc_share_block_share_block:
+  type: block_settings
+  label: 'Share block'
+  mapping:
+    domain:
+      type: text
+      label: 'Domain'
+    copy:
+      type: boolean
+      label: 'Copy URL'
+    facebook:
+      type: boolean
+      label: 'Facebook'
+    linkedin:
+      type: boolean
+      label: 'Linkedin'
+    twitter:
+      type: boolean
+      label: 'Twitter'
+    email:
+      type: boolean
+      label: 'Copy Email'

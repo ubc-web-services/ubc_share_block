@@ -1,0 +1,5 @@
+name: UBC Share Block
+type: module
+description: Adds a block with share functions
+package: UBC Web Services
+core_version_requirement: ^8 || ^9
